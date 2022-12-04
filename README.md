@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=GITHUB%20&fontSize=90)
 
+
+### ❣visitor❣
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FcorineS2%2Fhit-counter)](https://hits.seeyoufarm.com)
 
-### using
+
+
+
+
+### 🔨using🔨
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
